@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Can an image classifier classify a book's genre by its cover?
+Can an image classifier classify a book's genre or the decade it was published by its cover?
 
 ## Overview
 
