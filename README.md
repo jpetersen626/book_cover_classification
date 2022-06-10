@@ -1,4 +1,4 @@
-# Capstone: Book Image Classification
+# Capstone: Book Cover Image Classification
 
 ## Problem Statement
 
