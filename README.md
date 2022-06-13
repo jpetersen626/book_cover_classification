@@ -40,7 +40,19 @@ This dataset came from the above repo, where they gathered all the data from Ama
 
 ## Software Requirements
 
-
+1. isbnlib==3.10.10
+2. isbntools==4.3.28
+3. joblib==1.1.0
+4. matplotlib==3.4.3
+5. natsort==8.1.0
+6. numpy==1.20.3
+7. pandas==1.4.2
+8. protobuf==4.21.1
+9. scikit_learn==1.1.1
+10. seaborn==0.11.2
+11. tensorflow==2.8.0
+12. tqdm==4.64.0
+13. Unidecode==1.2.0
 
 ## Summary of Analysis
 

@@ -1,0 +1,13 @@
+isbnlib==3.10.10
+isbntools==4.3.28
+joblib==1.1.0
+matplotlib==3.4.3
+natsort==8.1.0
+numpy==1.20.3
+pandas==1.4.2
+protobuf==4.21.1
+scikit_learn==1.1.1
+seaborn==0.11.2
+tensorflow==2.8.0
+tqdm==4.64.0
+Unidecode==1.2.0
